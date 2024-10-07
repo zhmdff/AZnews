@@ -1,0 +1,23 @@
+.ads-img{
+    height: 100%;
+    object-fit: cover;
+    padding: 0
+}
+
+.all-news-ads-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 0 61px;
+}
+
+.ads-div{
+    width: 370px;
+    height: 625px;
+}
+
+.news-img80{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
